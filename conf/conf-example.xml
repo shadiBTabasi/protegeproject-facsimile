@@ -4,7 +4,7 @@
 	<input>
 		<ontology>ontology/example.owl</ontology>
 		<imports>
-			<ontology iri="http://purl.org/facsimile/datamodel">/Users/rgoncalves/Documents/workspace/facsimile/ontology/datamodel.owl</ontology>
+			<ontology iri="http://purl.org/facsimile/datamodel">ontology/datamodel.owl</ontology>
 		</imports>
 	</input>
 	<output>
