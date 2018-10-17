@@ -2,7 +2,7 @@
 <!DOCTYPE configuration SYSTEM "conf.dtd">
 <configuration>
 	<input>
-		<ontology>ontology/ides_dbq.owl</ontology>
+		<ontology>ontology/example.owl</ontology>
 		<imports>
 			<ontology iri="http://purl.org/facsimile/datamodel">ontology/datamodel.owl</ontology>
 			<ontology iri="http://purl.org/facsimile/cfa">ontology/ides_cfa.owl</ontology>
